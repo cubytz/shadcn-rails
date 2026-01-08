@@ -85,6 +85,15 @@
       "app/javascript/controllers/ui/command_controller.js"
     ]
   },
+  "date-picker": {
+    "name": "date-picker",
+    "type": "components:ui",
+    "files": [
+      "app/helpers/components/date_picker_helper.rb",
+      "app/views/components/ui/_date_picker.html.erb",
+      "app/javascript/controllers/ui/date-picker_controller.js"
+    ]
+  },
   "context-menu": {
     "name": "context-menu",
     "type": "components:ui",
